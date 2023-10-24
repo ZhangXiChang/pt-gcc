@@ -1,6 +1,6 @@
 # C++项目模板  
 ## 开发环境  
-Windows：CMake、MinGW(可选)、MSBuild  
+Windows：CMake、MinGW、MSBuild  
 Linux：CMake、GCC  
 ## 初始化项目  
 ```
