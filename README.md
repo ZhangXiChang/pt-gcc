@@ -1,9 +1,6 @@
 # C++跨平台项目模板  
 ## 开发环境  
 CMake、Vcpkg  
-#### 平台差异  
-Windows：MinGW  
-Linux：GCC  
 ## 安装Vcpkg包管理工具  
 使用Scoop包管理工具安装Vcpkg  
 ## 如何为项目添加一个包？  
